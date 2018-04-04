@@ -16,8 +16,3 @@ platform, and the player's goal is to shoot the platforms as well as the zombies
 to keep themselves alive. The tiles touching the player's platform will damage
 the player, as well as any zombie who makes it to the player platform. Some
 tiles spawn as invincible, and the goal is to survive as long as possible.
-
-Here's what the game looks like:
-
-![ZindaLaash](https://media.giphy.com/media/65K1yJp325NSaoeCxF/giphy.gif)
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/65K1yJp325NSaoeCxF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/65K1yJp325NSaoeCxF">via GIPHY</a></p>
