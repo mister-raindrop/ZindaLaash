@@ -17,4 +17,4 @@ to keep themselves alive. The tiles touching the player's platform will damage
 the player, as well as any zombie who makes it to the player platform. Some
 tiles spawn as invincible, and the goal is to survive as long as possible.
 
-<img src="https://i.imgur.com/0rgkNh0.gif" width="40%" height="40%">
+![ZindaLaash](zindagif.gif)
