@@ -8,7 +8,7 @@ public class FenceCollider : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        pHealth = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerHealth>();
+            pHealth = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerHealth>();
 	}
 	
 	// Update is called once per frame
